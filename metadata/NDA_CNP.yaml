@@ -1,0 +1,40 @@
+study: NDA_CNP
+url: https://nda.nih.gov/edit_collection.html?id=2499
+clinical_trial: False
+  intervention: None
+clinical_populations:
+  - Healthy Controls
+  - ADHD
+  - Bipolar Disorder
+  - Schizophrenia
+mri:
+  t1w: True
+  t2w: True
+  fmri-rest: True
+  fmri-task: 
+    - Balloon Analog Risk Task
+    - Paired Associate Memory Task
+    - Spatial Working Memory Task
+    - Stop Signal Task
+    - Task Switching Task
+    - Breath Holding Task
+  dwi: True
+scales:
+  - DKEFS
+  - MRS
+  - SCID
+  - SAPNS
+  - WAIS
+  - SCR90
+  - BPRS
+  - CSPP
+  - ESIVE
+  - TCI
+  - WMSIV
+  - ADHDRS
+  - MMPI7
+  - HAMD
+  - BIS
+  - DII
+  - HPS
+

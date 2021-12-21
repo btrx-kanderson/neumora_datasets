@@ -1,0 +1,26 @@
+study: NDA_EMBARC
+clinical_trial: True
+  intervention:
+    - Sertraline (Zoloft)
+    - Buproprion (Wellbutrin)
+    - Placebo
+mri:
+  t1w: True
+  t2w: False
+  fmri-rest: True
+  fmri-task:
+    - Emotional Stroop
+    - Reward
+scales:
+  - ASRM
+  - CAST
+  - MDQ
+  - HAMD
+  - MASQ
+  - SHAPS
+  - STAI
+  - VAMS
+  - QIDS
+  - CTQ
+  - CGI
+  - NEO

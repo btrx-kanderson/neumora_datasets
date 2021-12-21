@@ -1,0 +1,26 @@
+study: NDA_AttentionBias
+url: https://nda.nih.gov/edit_collection.html?id=2594
+clinical_trial: True
+  intervention:
+    - Attention Bias Training
+    - Placebo
+clinical_populations:
+  - Major Depressive Disorder
+mri:
+  t1w: True
+  t2w: False
+  fmri-rest: True
+  fmri-task:
+    - Sustained Attention Response Task
+  dwi: True
+scales:
+  - MINI
+  - HAMD
+  - MASQ
+  - QIDS
+  - ATRQ
+  - BISBAS
+  - CIRS
+  - CSSRS
+  - ERQ
+  - PTQ

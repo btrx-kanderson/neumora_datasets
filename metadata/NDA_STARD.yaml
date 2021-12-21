@@ -1,0 +1,24 @@
+study: NDA_STARD
+url: https://nda.nih.gov/edit_collection.html?id=2148
+clinical_trial: True
+  intervention:
+    - Citalopram (Celexa)
+    - Sertraline (Zoloft)
+    - Buproprion-SR (Wellbutrin)
+    - Venlaflaxine-XR (Effexor)
+clinical_populations:
+  - Major Depressive Disorder
+mri:
+  t1w: False
+  t2w: False
+  fmri-rest: False
+  fmri-task: False
+scales:
+  - pdsq01
+  - hrsd01
+  - qids01
+  - idsc01
+  - pcirs01
+  - qlesq01
+  - wpai01
+  - wsas01

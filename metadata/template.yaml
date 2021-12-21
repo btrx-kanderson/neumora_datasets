@@ -1,0 +1,12 @@
+study:
+url: 
+clinical_trial:
+  intervention:
+clinical_populations:
+mri:
+  t1w:
+  t2w:
+  fmri-rest:
+  fmri-task:
+  dwi: 
+scales:

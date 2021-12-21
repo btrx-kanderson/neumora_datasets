@@ -1,0 +1,35 @@
+study: NDA_AberrantAnticipatory
+url: https://nda.nih.gov/edit_collection.html?id=2908
+clinical_trial: False
+  intervention: None
+clinical_populations:
+  - Major Depressive Disorder
+  - Bipolar Disorder
+  - Healthy Controls
+mri:
+  t1w: True
+  t2w: True
+  fmri-rest: True
+  fmri-task:
+    - GoNoGo
+    - Cued Encoding of Faces
+    - Cued Encoding of Objects
+    - Forced Choice Memory of Faces
+    - Forced Choice Memory of Objects
+    - N-Back Emotional Faces
+scales:
+  - SCID
+  - ASRM
+  - CMRS
+  - YMRS
+  - HAMD
+  - MASQ
+  - SHAPS
+  - STAI
+  - QIDS
+  - MOODS
+  - NART
+  - SCIDII
+  - CSSRS
+  - BSMSS
+

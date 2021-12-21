@@ -1,0 +1,32 @@
+study: RDOC 
+clinical_trial: False
+  intervention: None
+clinical_popultions: 
+  - Healthy Controls
+  - General Psychopathology
+mri:
+  t1w: True
+  t2w: False
+  fmri-rest: False
+  fmri-task:
+    - GoNoGo
+    - CAP
+    - MID
+scales:
+  - SHAPS
+  - TEPS
+  - YADISC
+  - BAI
+  - FNE
+  - FWS
+  - PSWQ
+  - SRIGTA
+  - CDRS
+  - CEAHDS
+  - ACS
+  - NEO
+  - BISBAS
+  - DPSSR
+  - ERQ
+  - GRIT
+  - SF36

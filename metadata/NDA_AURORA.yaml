@@ -1,0 +1,28 @@
+study: NDA_AURORA
+url: https://nda.nih.gov/edit_collection.html?id=2526
+clinical_trial: False
+  intervention: None
+clinical_populations:
+  - Post-traumatic Stress Disorder
+  - Anxiety
+  - Major Depressive Disorder
+mri:
+  t1w: True
+  t2w: True 
+  fmri-rest: True
+  fmri-task:
+    - Fearful Faces Task
+    - Card Guessing Task
+    - GoNoGo
+  dwi: 
+scales:
+  - PSS
+  - PERT
+  - CTQ
+  - BFI
+  - PSQI
+  - PCLC
+  - SDS
+  - ANXSI
+  - UPPS
+  - PDI
